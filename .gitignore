@@ -28,7 +28,7 @@ MANIFEST
 
 
 # Data 
- *.data
+ data
  data/UKgas.csv
  data/tips.csv
  data/mtcars.csv
