@@ -164,8 +164,8 @@ cython_debug/
 
 
 # Data 
- data
- data/airquality.csv
- data/mtcars.csv
- data/tips.csv
- data/UKgas.csv
+data
+#  data/airquality.csv
+#  data/mtcars.csv
+#  data/tips.csv
+#  data/UKgas.csv
